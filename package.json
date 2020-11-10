@@ -1,0 +1,19 @@
+{
+  "name": "ytube_dserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "description": ""
+}
